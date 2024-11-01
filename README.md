@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HabbashX
+- 👀 I’m interested in Spring and Java
+- 🌱 I’m currently learning spring and javafx
+- ⚡ Fun fact: Nothing
