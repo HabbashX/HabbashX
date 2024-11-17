@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HabbashX
-- 👀 I’m interested in Spring and Java
+- 👋 Hi, I’m @ByteWizard
+- 👀 I’m interested in backend & desktop development
 - 🌱 I’m currently learning spring and javafx
 - ⚡ Fun fact: Nothing
