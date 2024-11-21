@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByteWizard
+- 👋 Hi, I’m @HabbashX
 - 👀 I’m interested in backend & desktop development
 - 🌱 I’m currently learning spring and javafx
-- ⚡ Fun fact: Nothing
+- ⚡ Fun fact: i love to make minecraft plugins and make some simple projects using pure java
