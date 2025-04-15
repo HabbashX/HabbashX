@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HabbashX
-- 👀 I’m interested in backend & desktop development
-- 🌱 I’m currently learning spring and javafx
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning spring
 - ⚡ Fun fact: i love to make minecraft plugins and make some simple projects using pure java
