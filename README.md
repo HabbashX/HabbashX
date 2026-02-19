@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abd Allah Al Habbash</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/186911212?v=4" alt="habbashx" /> </p>
+<p align="left"> <img src="" alt="habbashx" /> </p>
 
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/186911212?v=4"><img src="https://github-profile-trophy.vercel.app/?username=habbashx" alt="habbashx" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=habbashx" alt="habbashx" /></a> </p>
 
 - 🌱 I’m currently learning **Spring and Spring boot and C++**
 
