@@ -13,8 +13,9 @@
 ### Languages:
 
 <p align="left">
+  https://skillicons.dev/icons?i=lua
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" alt="lua logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
 </p>
 
 ### Libraries & Frameworks:
