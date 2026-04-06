@@ -15,6 +15,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=lua" alt="lua logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
+    <img src="https://skillicons.dev/icons?i=maven" alt="maven logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
 </p>
 
 ### Libraries & Frameworks:
