@@ -15,7 +15,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=lua" alt="lua logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
-    <img src="https://skillicons.dev/icons?i=maven" alt="maven logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
 </p>
 
 ### Libraries & Frameworks:
@@ -27,7 +26,7 @@
 ### Tools & Platforms:
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+    <img src="https://skillicons.dev/icons?i=maven" alt="maven logo" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;"  />
 
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
