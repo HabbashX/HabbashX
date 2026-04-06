@@ -1,39 +1,46 @@
-<h1 align="center">Java  Developer & Spring Boot Engineer</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img src="https://githance.in/api/render?type=header&variant=constellation&v=rect-v4&name=Habbash&subtitle=Building+REST+API+with+high+performance&theme=ember" alt="Custom header" />
 </div>
 
-###
 
-<div align="center">
-  <a href="instagram.com/abdallah_alhabbash" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="abdallahalhabbash@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="+972567162449" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
+<h2>About Me</h2>
+<p>Backend developer working with Java and Spring Boot, focused on designing and building scalable REST APIs and backend systems. I enjoy working with databases, clean architecture, and solving real-world engineering problems. Constantly improving my skills through hands-on projects and exploring modern backend development practices.</p><ul>
+</ul>
 
-###
+
+## Tech Stack
+
+### Languages:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Libraries & Frameworks:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+### Databases:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
+
+
+<p align="center">
+  <img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer banner 03" width="800" />
+</p>
+
