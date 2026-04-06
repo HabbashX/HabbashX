@@ -44,6 +44,6 @@
 
 
 <p align="center">
-  <img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer banner 03" width="800" />
+  <img src="https://githance.in/api/render?type=footer&banner_id=banner-3&w=1600&h=240" alt="Footer banner 03" width="1100" />
 </p>
 
