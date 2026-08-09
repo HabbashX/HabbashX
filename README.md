@@ -9,24 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
-
-<div align="center">
-
-```
-$ javap -c com.habbashx.Profile
-
-Compiled from "AbdAllahAlHabbash.java"
-public class Profile {
-  public Profile();
-    0: getstatic     #role      // Field ROLE:"Backend Developer"
-    3: getstatic     #stack     // Field STACK:"Java / Spring Boot"
-    6: getstatic     #builds    // Field BUILDS:"languages, HTTP clients, servers"
-    9: invokevirtual #init      // Method init:()V
-}
-```
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
   <img src="https://img.shields.io/badge/based_in-Palestine-F0883E?style=flat-square&labelColor=0D1117" alt="location" />
