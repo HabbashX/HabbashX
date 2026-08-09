@@ -1,31 +1,70 @@
 <div align="center">
   <a href="https://instagram.com/abdallah_alhabbash" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117" height="28" alt="instagram" />
   </a>
   <a href="https://wa.me/972567162449" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0D1117" height="28" alt="whatsapp" />
   </a>
   <a href="mailto:abdallahalhabbash@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="28" alt="gmail" />
   </a>
 </div>
+
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
   <img src="https://img.shields.io/badge/based_in-Palestine-F0883E?style=flat-square&labelColor=0D1117" alt="location" />
-  <img src="https://img.shields.io/badge/reads-bytecode-58A6FF?style=flat-square&labelColor=0D1117" alt="reads bytecode" />
+  <img src="https://img.shields.io/badge/java-4%2B%20years-58A6FF?style=flat-square&labelColor=0D1117" alt="java experience" />
 </p>
 
 <h3 align="left">About Me</h3>
 
-<p align="left">
-Backend developer working with Java and Spring Boot, focused on designing and building scalable REST APIs and backend systems. I enjoy working with databases, clean architecture, and solving real-world engineering problems — including building my own tools when the existing ones don't fit, from a custom JVM language to an HTTP client framework from scratch. Currently a Management Information Systems student, constantly improving through hands-on projects.
-</p>
+```java
+/**
+ * Backend developer, 4+ years in Java — Spring Boot, scalable REST APIs,
+ * clean architecture, databases done right.
+ *
+ * I build the tool when the existing one doesn't fit: a JVM-targeting
+ * language from scratch, an HTTP client framework, my own bytecode
+ * pipeline. Currently studying Management Information Systems.
+ */
+```
+
+---
 
 <h3 align="left">Featured Work</h3>
 
-<p align="left">
-<b>Larv</b> — a JVM-targeting programming language I built from scratch, with a full Lexer → Parser → AST → Interpreter/Compiler pipeline, a Java FFI system, and 13 standard library modules.
-</p>
+<table>
+<tr>
+<td width="70%">
+
+**Larv** — a JVM-targeting programming language, built from the ground up.
+
+`Lexer` → `Parser` → `AST` → `Interpreter` / `Compiler`
+
+Includes a Java FFI system for calling host code directly, and 13 standard library modules (`json`, `io`, `http`, `jdbc`, `math`, and more).
+
+</td>
+<td width="30%" align="center">
+
+```
+Lexer
+  ↓
+Parser
+  ↓
+  AST
+  ↓
+Compiler
+  ↓
+ .class
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <h3 align="left">Languages</h3>
 
@@ -38,6 +77,8 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
 </div>
+
+---
 
 <h3 align="left">Tools & Technologies</h3>
 
@@ -65,33 +106,37 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" height="40" alt="htmx logo" />
 </div>
 
+---
+
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.athul.dev/api?username=HabbashX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.athul.dev/api/top-langs/?username=HabbashX&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.athul.dev/api?username=HabbashX&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.athul.dev/api/top-langs/?username=HabbashX&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="top languages" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabbashX&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabbashX&hide_border=true&background=0D1117&ring=7EE787&fire=F0883E&currStreakLabel=58A6FF" alt="github streak" />
 </div>
 
-<h3 align="left">Featured Projects</h3>
+---
+
+<h3 align="left">Other Repositories</h3>
 
 <div align="left">
   <a href="https://github.com/HabbashX/Larv-Language">
-    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=Larv-Language&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=Larv-Language&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/AxiomHttp">
-    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=AxiomHttp&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=AxiomHttp&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" width="48%" />
   </a>
 </div>
 
 <div align="left">
   <a href="https://github.com/HabbashX/TCPServer">
-    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=TCPServer&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=TCPServer&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/E-Commerce-System">
-    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=E-Commerce-System&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=E-Commerce-System&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" width="48%" />
   </a>
 </div>
