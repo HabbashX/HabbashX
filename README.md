@@ -26,7 +26,7 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <li><b>Larv</b> — my own JVM-targeting programming language with a full Lexer → Parser → AST → Interpreter/Compiler pipeline and Java FFI</li>
 </ul>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -36,7 +36,11 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
-  <img width="12" />
+</div>
+
+<h3 align="left">Tools & Technologies</h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
@@ -47,6 +51,8 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
@@ -55,7 +61,7 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/themes/htmx-theme/static/img/htmx_logo.svg" alt="htmx logo" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" height="40" alt="htmx logo" />
 </div>
 
 <h3 align="left">GitHub Stats</h3>
