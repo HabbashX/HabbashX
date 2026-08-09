@@ -11,10 +11,17 @@
 </div>
 
 <br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
   <img src="https://img.shields.io/badge/based_in-Palestine-F0883E?style=flat-square&labelColor=0D1117" alt="location" />
   <img src="https://img.shields.io/badge/java-4%2B%20years-58A6FF?style=flat-square&labelColor=0D1117" alt="java experience" />
+</p>
+
+<p align="center">
+  <a href="./resume/Abd_Allah_Al_Habbash_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-C9D1D9?style=flat-square&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="download resume" />
+  </a>
 </p>
 
 <h3 align="left">About Me</h3>
