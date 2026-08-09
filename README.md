@@ -54,6 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-<img src="https://githubusercontent.com" width="12" height="40" alt="HTMX Logo" />
+  <img src="https://shields.io" height="40" alt="HTMX Badge" />
 </div>
 
