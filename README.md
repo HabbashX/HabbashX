@@ -12,6 +12,24 @@
 
 <br />
 
+
+<div align="center">
+
+```
+$ javap -c com.habbashx.Profile
+
+Compiled from "AbdAllahAlHabbash.java"
+public class Profile {
+  public Profile();
+    0: getstatic     #role      // Field ROLE:"Backend Developer"
+    3: getstatic     #stack     // Field STACK:"Java / Spring Boot"
+    6: getstatic     #builds    // Field BUILDS:"languages, HTTP clients, servers"
+    9: invokevirtual #init      // Method init:()V
+}
+```
+
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
   <img src="https://img.shields.io/badge/based_in-Palestine-F0883E?style=flat-square&labelColor=0D1117" alt="location" />
@@ -20,16 +38,9 @@
 
 <h3 align="left">About Me</h3>
 
-```java
-/**
- * Backend developer, 4+ years in Java — Spring Boot, scalable REST APIs,
- * clean architecture, databases done right.
- *
- * I build the tool when the existing one doesn't fit: a JVM-targeting
- * language from scratch, an HTTP client framework, my own bytecode
- * pipeline. Currently studying Management Information Systems.
- */
-```
+<p align="left">
+Backend developer with 4+ years of experience in Java, focused on designing and building scalable REST APIs and backend systems. I enjoy working with databases, clean architecture, and solving real-world engineering problems — including building my own tools when the existing ones don't fit, from a custom JVM language to an HTTP client framework from scratch. Currently a Management Information Systems student, constantly improving through hands-on projects.
+</p>
 
 ---
 
