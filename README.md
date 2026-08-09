@@ -11,10 +11,6 @@
 </div>
 
 <br />
-
-
-<h1 align="center">hey there 👋</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
   <img src="https://img.shields.io/badge/based_in-Palestine-F0883E?style=flat-square&labelColor=0D1117" alt="location" />
