@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="./resume/Abd_Allah_Al_Habbash_Resume.pdf">
+  <a href="./Abd_Allah_Al_Habbash_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-C9D1D9?style=flat-square&logo=readdotcv&logoColor=white&labelColor=0D1117" alt="download resume" />
   </a>
 </p>
