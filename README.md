@@ -18,7 +18,7 @@
 Backend developer working with Java and Spring Boot, focused on designing and building scalable REST APIs and backend systems. I enjoy working with databases, clean architecture, and solving real-world engineering problems — including building my own tools when the existing ones don't fit, from a custom JVM language to an HTTP client framework from scratch. Currently a Management Information Systems student, constantly improving through hands-on projects.
 </p>
 
-<h3 align="left">🔭 Currently building</h3>
+<h3 align="left">Currently Building</h3>
 
 <ul align="left">
   <li><b>GazaPay</b> — a Spring Boot + Android payment notification gateway for Palestinian merchants (Jawwal Pay, Pal Pay, Bank of Palestine), with HMAC-signed webhooks, JWT auth, and WebSocket connectivity</li>
@@ -58,7 +58,7 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/themes/htmx-theme/static/img/htmx_logo.svg" alt="htmx logo" width="40" height="40" />
 </div>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HabbashX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
@@ -69,19 +69,22 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabbashX&theme=tokyonight&hide_border=true" alt="github streak" />
 </div>
 
-<h3 align="left"> Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
 <div align="left">
   <a href="https://github.com/HabbashX/Larv-Language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=Larv-Language&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=Larv-Language&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/AxiomHttp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=AxiomHttp&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=AxiomHttp&theme=tokyonight&hide_border=true" width="48%" />
   </a>
+</div>
+
+<div align="left">
   <a href="https://github.com/HabbashX/TCPServer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=TCPServer&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=TCPServer&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/E-Commerce-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=E-Commerce-System&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=E-Commerce-System&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
