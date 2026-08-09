@@ -18,13 +18,11 @@
 Backend developer working with Java and Spring Boot, focused on designing and building scalable REST APIs and backend systems. I enjoy working with databases, clean architecture, and solving real-world engineering problems — including building my own tools when the existing ones don't fit, from a custom JVM language to an HTTP client framework from scratch. Currently a Management Information Systems student, constantly improving through hands-on projects.
 </p>
 
-<h3 align="left">Currently Building</h3>
+<h3 align="left">Featured Work</h3>
 
-<ul align="left">
-  <li><b>GazaPay</b> — a Spring Boot + Android payment notification gateway for Palestinian merchants (Jawwal Pay, Pal Pay, Bank of Palestine), with HMAC-signed webhooks, JWT auth, and WebSocket connectivity</li>
-  <li><b>Exams Resolver</b> — a Java Swing desktop app for student portal access, with encrypted bytecode delivery and a custom dev console</li>
-  <li><b>Larv</b> — my own JVM-targeting programming language with a full Lexer → Parser → AST → Interpreter/Compiler pipeline and Java FFI</li>
-</ul>
+<p align="left">
+<b>Larv</b> — a JVM-targeting programming language I built from scratch, with a full Lexer → Parser → AST → Interpreter/Compiler pipeline, a Java FFI system, and 13 standard library modules.
+</p>
 
 <h3 align="left">Languages</h3>
 
@@ -67,8 +65,8 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
 <h3 align="left">GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabbashX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabbashX&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.athul.dev/api?username=HabbashX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.athul.dev/api/top-langs/?username=HabbashX&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages" />
 </div>
 
 <div align="left">
@@ -79,18 +77,18 @@ Backend developer working with Java and Spring Boot, focused on designing and bu
 
 <div align="left">
   <a href="https://github.com/HabbashX/Larv-Language">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=Larv-Language&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=Larv-Language&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/AxiomHttp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=AxiomHttp&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=AxiomHttp&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 
 <div align="left">
   <a href="https://github.com/HabbashX/TCPServer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=TCPServer&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=TCPServer&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/HabbashX/E-Commerce-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabbashX&repo=E-Commerce-System&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.athul.dev/api/pin/?username=HabbashX&repo=E-Commerce-System&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
