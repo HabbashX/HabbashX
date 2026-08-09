@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/27b9846a-40f0-44f9-bb08-cba0a489ef4d" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/1e93384b-1064-44d4-9cc8-c9c60a777e55" />
  
 </div>
 
