@@ -13,22 +13,7 @@
 <br />
 
 
-<div align="center">
-
-```
-$ javap -c com.habbashx.Profile
-
-Compiled from "AbdAllahAlHabbash.java"
-public class Profile {
-  public Profile();
-    0: getstatic     #role      // Field ROLE:"Backend Developer"
-    3: getstatic     #stack     // Field STACK:"Java / Spring Boot"
-    6: getstatic     #builds    // Field BUILDS:"languages, HTTP clients, servers"
-    9: invokevirtual #init      // Method init:()V
-}
-```
-
-</div>
+<h1 align="center">hey there 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping-7EE787?style=flat-square&labelColor=0D1117" alt="status" />
@@ -46,34 +31,9 @@ Backend developer with 4+ years of experience in Java, focused on designing and 
 
 <h3 align="left">Featured Work</h3>
 
-<table>
-<tr>
-<td width="70%">
-
-**Larv** — a JVM-targeting programming language, built from the ground up.
-
-`Lexer` → `Parser` → `AST` → `Interpreter` / `Compiler`
-
-Includes a Java FFI system for calling host code directly, and 13 standard library modules (`json`, `io`, `http`, `jdbc`, `math`, and more).
-
-</td>
-<td width="30%" align="center">
-
-```
-Lexer
-  ↓
-Parser
-  ↓
-  AST
-  ↓
-Compiler
-  ↓
- .class
-```
-
-</td>
-</tr>
-</table>
+<p align="left">
+<b>Larv</b> — a JVM-targeting programming language, built from the ground up: Lexer → Parser → AST → Interpreter/Compiler. Includes a Java FFI system for calling host code directly, and 13 standard library modules (<code>json</code>, <code>io</code>, <code>http</code>, <code>jdbc</code>, <code>math</code>, and more).
+</p>
 
 ---
 
