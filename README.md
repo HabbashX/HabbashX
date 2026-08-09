@@ -35,6 +35,18 @@ Backend developer with 4+ years of experience in Java, focused on designing and 
 <b>Larv</b> — a JVM-targeting programming language, built from the ground up: Lexer → Parser → AST → Interpreter/Compiler. Includes a Java FFI system for calling host code directly, and 13 standard library modules (<code>json</code>, <code>io</code>, <code>http</code>, <code>jdbc</code>, <code>math</code>, and more).
 </p>
 
+<p align="left">
+<b>AxiomHttp</b> — an annotation-driven HTTP client framework for Java, built with ByteBuddy proxies and a pluggable interceptor pipeline.
+</p>
+
+<p align="left">
+<b>Property-Parser</b> — a lightweight Java library for parsing and resolving property files.
+</p>
+
+<p align="left">
+<b>GazaPay</b> — a fintech project currently in development. Details private for now.
+</p>
+
 ---
 
 <h3 align="left">Languages</h3>
