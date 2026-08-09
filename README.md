@@ -1,4 +1,3 @@
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6a64657e-10b2-4334-b8d4-1d4e0259667d" /> 
 <div align="center">
   <a href="instagram.com/abdallah_alhabbash" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -55,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/1e93384b-1064-44d4-9cc8-c9c60a777e55" />
  
 </div>
 
