@@ -58,3 +58,17 @@ Backend Developer & Tool Builder. I like building things from the ground up when
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabbashX&hide_border=true&background=0D1117&ring=7EE787&fire=F0883E&currStreakLabel=58A6FF" alt="github streak" />
 </div>
+
+<!--START_SECTION:activity-->
+### 👷 Check out what I'm currently working on
+- (this list auto-fills once the workflow below runs)
+
+### 🌱 My latest projects
+- (this list auto-fills once the workflow below runs)
+
+### 🔨 My recent Pull Requests
+- (this list auto-fills once the workflow below runs)
+
+### ⭐ Recent Stars
+- (this list auto-fills once the workflow below runs)
+<!--END_SECTION:activity-->
