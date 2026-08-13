@@ -11,7 +11,7 @@ Currently studying Management Information Systems at the University of Palestine
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,rust,androidstudio,idea,linux,docker,postgres,mysql,sqlite,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,rust,androidstudio,idea,linux,docker,git,github,powershell,postgres,mysql,sqlite,redis&theme=dark" />
 
 </div>
 
