@@ -47,8 +47,8 @@ A payment notification and forwarding system for Palestinian payment providers (
 </td>
 <td width="50%" valign="top">
 
-### Exams Resolver
-A Java Swing desktop application with a custom developer console system (Logback `SwingConsoleAppender`, replay buffer, level-based coloring) and a bytecode encryption pipeline using AES-256-GCM with a custom `ClassLoader`.
+### TCPServer
+A secure, extensible, multi-client TCP chat server built in Java. SSL/TLS encrypted communication, a custom binary packet protocol, virtual-thread-based async command execution, role-based permissions, and pluggable auth storage (CSV/JSON/SQL).
 
 </td>
 </tr>
