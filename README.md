@@ -1,28 +1,38 @@
-<p align="center"><img src="https://raw.githubusercontent.com/HabbashX/HabbashX/main/habbashx-600px-github.png" /></p>
+# Abd Allah Al Habbash
 
-### Socials
+Java backend developer. Self-taught, project-driven, 4+ years building things from scratch — compilers, HTTP frameworks, payment systems, desktop apps. Currently studying Management Information Systems at the University of Palestine.
 
-<p align="left"> <a href="https://www.github.com/HabbashX" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://instagram.com/abdallah_alhabbash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="mailto:abdallahalhabbash@gmail.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /> </picture> </a> <a href="https://wa.me/972567162449" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="32" height="32" /> </picture> </a></p>
+I build the hard-to-find infrastructure pieces: a JVM-targeting language, an annotation-driven HTTP client framework, and backend systems built for constrained environments like Gaza.
 
-### GitHub Stats
+---
 
-<p align="left"><img src="https://github-readme-stats.athul.dev/api?username=HabbashX&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" /></p>
+![metrics](github-metrics.svg)
 
-<!--START_SECTION:activity-->
-### 👷 Check out what I'm currently working on
+---
 
-- (auto-filled by workflow)
-### 🌱 My latest projects
+## Projects
 
-- (auto-filled by workflow)
-### 🔨 My recent Pull Requests
+### Larv
+A custom JVM-targeting programming language written in Java. Full compiler pipeline — Lexer → Parser → AST → Compiler — with Java FFI via `include`/`involve` syntax, direct bytecode generation (`INVOKEVIRTUAL` dispatch), and a 13-module standard library. Comes with an IntelliJ IDEA plugin: syntax highlighting, real-time error squiggles, five inspections, and a project wizard with build tool support.
 
-- (auto-filled by workflow)
-### ⭐ Recent Stars
+### AxiomHttp
+An annotation-driven HTTP client framework for Java, using ByteBuddy proxies to generate Retrofit-style clients at runtime. Started as WebScrapingJava before evolving into a general-purpose framework.
 
-- (auto-filled by workflow)
-<!--END_SECTION:activity-->
-### 📫 How to reach me:
-  - Instagram : <https://instagram.com/abdallah_alhabbash>
-  - WhatsApp  : <https://wa.me/972567162449>
-  - Email     : <abdallahalhabbash@gmail.com>
+### Property-Parser
+A Java library for parsing and resolving property files.
+
+### GazaPay
+A payment notification and forwarding system for Palestinian payment providers (Jawwal Pay, Pal Pay, Bank of Palestine). Spring Boot 3.x backend with clean architecture, JWT auth, HMAC-SHA256 signed webhooks, WebSocket device heartbeat, and Telegram/SMS notification routing — paired with an Android companion app for notification capture and forwarding.
+
+### Exams Resolver
+A Java Swing desktop application with a custom developer console system (Logback `SwingConsoleAppender`, replay buffer, level-based coloring) and a bytecode encryption pipeline using AES-256-GCM with a custom `ClassLoader`.
+
+---
+
+## Stack
+
+`Java` `Spring Boot` `Kotlin/Android` `PostgreSQL` `WebSocket` `JWT` `HTMX` `Vue 3` `Three.js`
+
+---
+
+<div align="right"><i>Building from Gaza, Palestine.</i></div>
