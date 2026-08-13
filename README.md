@@ -11,7 +11,7 @@ Currently studying Management Information Systems at the University of Palestine
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,rust,androidstudio,idea,linux,docker,git,github,powershell,postgres,mysql,sqlite,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,rust,spring,androidstudio,idea,linux,docker,git,github,powershell,htmx,postgres,mysql,sqlite,redis&theme=dark" />
 
 </div>
 
@@ -41,7 +41,7 @@ An annotation-driven HTTP client framework for Java, using ByteBuddy proxies to 
 <tr>
 <td width="50%" valign="top">
 
-### GazaPay
+### GazaPay `🚧 in progress`
 A payment notification and forwarding system for Palestinian payment providers (Jawwal Pay, Pal Pay, Bank of Palestine). Spring Boot 3.x backend with clean architecture, JWT auth, HMAC-SHA256 signed webhooks, WebSocket device heartbeat, and Telegram/SMS routing — paired with an Android companion app.
 
 </td>
@@ -61,19 +61,14 @@ A Java library for parsing and resolving property files.
 </td>
 <td width="50%" valign="top">
 
+### VaultX
+A secured vault for storing files, data, images, and videos.
+
 </td>
 </tr>
 </table>
 
 <br>
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,htmx,vue,threejs&theme=dark" />
-
-</div>
 
 <br>
 
